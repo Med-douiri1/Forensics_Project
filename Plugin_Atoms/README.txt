@@ -21,7 +21,7 @@ Setup:
 Copy atoms.py to your Volatility 3 plugins directory:
 volatility3/volatility3/plugins/windows/atoms.py
 
-Usage: (please use the provided memory_dump.raw file at https://drive.google.com/file/d/1GHoPUyLAOd0BkFVNcNmBaDrrU4d5V12d/view?usp=sharing)
+Usage: (the provided memory_dump.raw file is at https://drive.google.com/file/d/1GHoPUyLAOd0BkFVNcNmBaDrrU4d5V12d/view?usp=sharing)
 ------
 
 python3 vol.py -f memory_dump.raw windows.atoms
