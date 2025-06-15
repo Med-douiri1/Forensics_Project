@@ -19,7 +19,7 @@ SETUP
 Copy connscan.py to your Volatility 3 plugins directory:
 volatility3/volatility3/plugins/windows/connscan.py
 
-USAGE (there is a provided memory_dump.raw file)
+USAGE (the provided memory_dump.raw file is at https://drive.google.com/file/d/1GHoPUyLAOd0BkFVNcNmBaDrrU4d5V12d/view)
 ------
 Run the plugin with the following command:
 
